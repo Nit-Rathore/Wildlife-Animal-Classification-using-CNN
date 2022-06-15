@@ -4,5 +4,8 @@ Built a Convolutional Neural Network for binary classificatiob classify between 
 # Data
 Dataset was taken from trail camera imagery https://www.crcv.ucf.edu/research/projects/florida-wildlife-camera-trap-dataset/
 
+# Paper
+Wrote a paper on the findings and accuracy and look to improve the accuracy and extend it to multiclass classification
+
 # Contribute
 The source code will be available on Github and contributions/donations are always welcomed.
